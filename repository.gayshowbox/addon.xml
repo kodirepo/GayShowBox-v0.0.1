@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.gayshowbox" name="GayShowBox Repo" version="0.0.1" provider-name="kodirepo">
+	<extension point="xmbc.addon.repository" name="GayShowBox Repo">
+		<info compressed="false">http://raw.github.com/kodirepo/GayShowBox-v0.0.1/master/addons.xml</info>
+		<checksum>http://raw.github.com/kodirepo/GayShowBox-v0.0.1/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/kodirepo/GayShowBox-v0.0.1/master</datadir>
+	</extension>
+	
+	<extension point="xbmc.addon.metadata">
+		<summary>The Official GayShowBox repository</summary>
+		<description>This repository contains addons that are for adults only. You may only view the contents of this repository if you are at least 18 years of age, or at least the age of majority in the jurisdiction where you reside or from which you access this content.</description>
+		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
