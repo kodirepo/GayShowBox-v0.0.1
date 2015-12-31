@@ -1,0 +1,12 @@
+<strings>
+    <string id="30002">Don't ask for videohost</string>
+    <string id="30011">Select Sort method for Scenes</string>
+    <string id="30012">Latest</string>
+    <string id="30013">Top rated</string>
+    <string id="30014">Most viewed</string>
+    <string id="30021">Select Sort method for Movies</string>
+    <string id="30022">Date</string>
+    <string id="30023">Title</string>
+    <string id="30024">Views</string>
+    <string id="30025">Likes</string>
+</strings>

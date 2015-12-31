@@ -2,7 +2,7 @@
 <addons>
 < addon  id = " plugin.video.uwc "
        name="Gay ShowBox"
-       version="1.0.68"
+       version="0.0.1"
        provider-name="kodirepo">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
